@@ -9,6 +9,16 @@ Purpose of this fork:
 - Personal practice and experimentation
 
 All credit for the original work goes to the original author.
+--
+
+## What I Learned from This Project
+
+- Working with multiple Excel datasets
+- Cleaning and preparing tourism data
+- Creating visualizations using Python
+- Understanding how dashboards are structured
+- Reading and learning from existing open-source projects
+
 
 # India-Tour-Dashboard
 
