@@ -1,6 +1,14 @@
 This project is forked from Codon-s/India-Tour-Dashboard.
 Original author: Codon-s
 
+## Project Enhancements by Atharvi Babhare
+- Improved data cleaning steps
+- Added region-wise tourism insights
+- Enhanced visualizations for better comparison
+- Documented key insights from the dashboard
+
+> This project is forked from Codon-s/India-Tour-Dashboard and extended for learning and analysis purposes.
+
 # India-Tour-Dashboard
 
 Welcome to the India Travel Itinerary Planner project repository! This project allows users to plan their trip across India within a fixed budget. Users can choose between four different packages (Silver, Gold, Platinum, and Luxury), each offering a unique travel itinerary tailored to the same budget. This Readme file provides you with essential information to get started with the project.
