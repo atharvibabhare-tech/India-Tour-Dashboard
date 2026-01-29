@@ -1,13 +1,14 @@
-This project is forked from Codon-s/India-Tour-Dashboard.
-Original author: Codon-s
+## Forked Project Notice
 
-## Project Enhancements by Atharvi Babhare
-- Improved data cleaning steps
-- Added region-wise tourism insights
-- Enhanced visualizations for better comparison
-- Documented key insights from the dashboard
+This repository is a fork of  
+**Codon-s / India-Tour-Dashboard**
 
-> This project is forked from Codon-s/India-Tour-Dashboard and extended for learning and analysis purposes.
+Purpose of this fork:
+- Learning data analysis & dashboards
+- Understanding real-world project structure
+- Personal practice and experimentation
+
+All credit for the original work goes to the original author.
 
 # India-Tour-Dashboard
 
